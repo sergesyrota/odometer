@@ -1,7 +1,7 @@
 ---
 repository:
   status: active
-  team: Health
-  jira: jarvis
+  team: Best Hats
+  jira: AHAB
+  jira_triaged: BHAT
   live: yes
-  
