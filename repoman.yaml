@@ -1,7 +1,7 @@
 ---
 repository:
   status: active
-  team: Best Hats
+  team: Web Hats
   jira: AHAB
-  jira_triaged: BHAT
+  jira_triaged: WHAT
   live: yes
