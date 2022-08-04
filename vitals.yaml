@@ -1,0 +1,9 @@
+apiVersion: v1
+metadata:
+  askId:
+    - AIDE_0074286
+  caAgileId: poc
+  projectKey: com.optum.rally.odometer
+  projectFriendlyName: odometer
+  componentType: code
+  targetQG: GATE_00
